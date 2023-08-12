@@ -1,12 +1,11 @@
 {
-  "name": "rooting-for-recovery-api",
+  "name": "app-name-api",
   "version": "1.0.0",
-  "description": "Rooting for Recovery API",
+  "description": "description",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
-    "start": "node server.js",
-    "deploy": "pm2 startOrRestart ecosystem.config.js --env production"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "shazee257@gmail.com",
